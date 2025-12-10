@@ -1,0 +1,1 @@
+obj-m := huaming1.0_hook.o
